@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    border:;
+}
+
+.topheader{
+    height: 35px;
+    background-color:#d63638;
+    font-size: 22px;
+    color: white;
+    padding: 8px;
+}
+.email{
+    float:left
+}
+.insta{
+    float:right
+}
+.header{
+    height:100px;
+    font-size: 22px;
+    border:1px solid grey;
+}
+
+.row{
+    width: 100%;
+    padding: 10px;
+    padding-top: 25px;
+}
+.header img{
+    width:40px;
+    height:40px;
+    
+}
+.h1{
+    width: 3%;
+    float: left;
+
+}
+.h2{
+    width: 50%;
+    float: left;
+    font-size: 35px;
+    color:green;
+    
+}
+.h3{
+    width:10%;
+    float:right;
+    background-color: green;
+    text-align: center;
+    padding: 10px;
+    margin-right: 120px;
+    border-radius: 10px;
+}
+.h3:hover{
+    background-color:red;
+}
+.login{
+    text-decoration: none;
+    color:white;
+}
+
+.menubar{
+    height:40px;
+    font-size: 22px;
+    background-color:lightgreen;
+}
+.menubar ul{
+    width: 100%;
+    list-style-type: none;
+}
+.menubar ul li{
+    float: left;
+    margin: 5px 60px;
+
+}
+.menubar ul li a{
+    /* display: block; */
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+    padding: 10px;
+    font-weight: bold;
+    font-family: arial;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.menubar ul li a:hover{
+    background-color:blue;
+    color:white;
+}
+.bodypart{
+    height: 500px;
+    font-size: 22px;
+}
+.sectitle{
+    text-align: center;
+    color: black;
+   
+}
+.lim{
+    width: 70%;
+    
+    margin:0 auto auto;
+    
+}
+.footer{
+    height:200px;
+    background-color: black;
+
+}
+.coursediv{
+    float:left;
+    width: 20%;
+    height: 300px;
+    border:1px solid lightslategray;
+    box-shadow: 3px 6px black;
+    border-radius: 10px;
+    margin: 15px 10px;
+}
+.coursediv img{
+    width: 200px;
+    height:300px;
+    border-radius: 10px;
+    
+}
+.coursediv img{
+    width: 200px;
+    height:300px;
+    border-radius: 10px;
+}
+.foot{
+    color:white;
+    text-align: center;
+    padding-top: 20px;
+}
